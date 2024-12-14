@@ -1,7 +1,7 @@
 # MPS_IISE_Data
 
-This repository contains scenario-based datasets for optimization problems involving the IEEE-33 system and IEEE-123 system, each spanning various numbers of scenarios. 
+This repository contains the data and problem instances used in the computational study of a paper titled "Resilience Enhancement in Power Distribution Systems: Chance-Constrained Model with Decision-Dependent Atoms."
 
-The .xlsx files include structured data representing realizations of random variables relevant to their corresponding scenarios and systems.
+1. Folder "Network_Info" includes the network information of the test systems used in the study.
 
-The candidate nodes info.xlsx file provides detailed information on the candidate nodes under consideration.
+2. Folder "Simple_Instances" includes the realization of random variables under different sizes of scenarios for study cases.
